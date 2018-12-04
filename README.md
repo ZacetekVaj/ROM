@@ -1,2 +1,3 @@
 # ROM
-Imel bi nekaj povezanega z vrstami iz analize, če se da.
+Projektna naloga:
+Računal bi limite kakih zanimivih zaporedij, podatke bi kasneje uprizoril na grafu in importal v excel
