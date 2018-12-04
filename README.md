@@ -1,3 +1,3 @@
 # ROM
 Projektna naloga:
-Računal bi limite kakih zanimivih zaporedij, podatke bi kasneje uprizoril na grafu in importal v excel
+Računal bi limite kakih zanimivih zaporedij, podatke bi kasneje prikazal na grafu in importal v excel.
